@@ -1,0 +1,2 @@
+*.brd linguist-language=EAGLE Board
+*.sch linguist-language=EAGLE Schematic

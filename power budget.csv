@@ -1,0 +1,8 @@
+Name, Nominal (A), Peak (A)
+ATmega328p, 0.02, 0.02
+Raspberry Pi 2 B, 0.1, 0.4
+Servo, ???, ???
+393 Motor, 0.15, 3.6
+LED, 0.02, 0.02
+Total, 0.29, 4.04
+7805 T220, 1.5, 2.2
